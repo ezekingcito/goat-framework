@@ -80,3 +80,6 @@ Para iniciar el servidor de desarrollo:
 
 ```plaintext
 npm start
+```
+
+El servidor se ejecutará en http://localhost:3000.
