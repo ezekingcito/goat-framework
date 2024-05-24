@@ -92,4 +92,8 @@ Para compilar los archivos del proyecto:
 
     ```plaintext
     npm run build
-    ```
+    ``` 
+Este comando ejecutará el script definido en el archivo package.json, que utilizará Babel para compilar los archivos del directorio src en JavaScript compatible con versiones anteriores de Node.js. El resultado se almacenará en el directorio controller.
+
+## Estructura del Proyecto
+La estructura del proyecto después de la compilación será:
