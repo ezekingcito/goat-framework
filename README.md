@@ -90,7 +90,7 @@ El servidor se ejecutará en http://localhost:3000.
 
 Para compilar los archivos del proyecto:
 ```
-npm run build
+npm run build   
 ```
 
 
@@ -98,3 +98,35 @@ Este comando ejecutará el script definido en el archivo package.json, que utili
 
 ## Estructura del Proyecto
 La estructura del proyecto después de la compilación será:
+```
+GoatFramework/
+├── app/
+│   └── config/
+│       └── Conexion.php
+│       └── Config.php
+│       └── MyRoutes.php
+│       └── ORM.php
+│       └── View.php
+│   └── controller/
+│       └── ejemploControlador.php
+│   └── model/
+│       └── ejemploModel.php
+├── controller/
+│       └── main.controller.js
+├── node_modules/
+├── public/
+│       └── css/
+│       └── img/
+│       └── js/
+├── src/
+│       └── main.controller.js
+├── vendor/
+├── view/
+│       └── ejemploVista.view.php
+├── composer.json
+├── composer.lock
+├── goat.js
+├── index.php
+├── package-lock.json
+└── package.json
+```
