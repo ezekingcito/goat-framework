@@ -83,3 +83,6 @@ npm start
 ```
 
 El servidor se ejecutará en http://localhost:3000.
+
+### Uso Avanzado
+    **Compilación de Archivos**
