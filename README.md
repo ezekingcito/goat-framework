@@ -130,3 +130,12 @@ GoatFramework/
 ├── package-lock.json
 └── package.json
 ```
+Después de la compilación, los archivos JavaScript del directorio src se compilarán y se almacenarán en el directorio controller.
+## Contribución
+¡Las contribuciones son bienvenidas! Si deseas contribuir, sigue estos pasos:
+
+1. Haz un fork del repositorio.
+2. Crea una nueva rama (git checkout -b feature/nueva-feature).
+3. Realiza tus cambios y commitea (git commit -m 'Añadir nueva feature').
+4. Sube tus cambios (git push origin feature/nueva-feature).
+5. Abre un Pull Request.
