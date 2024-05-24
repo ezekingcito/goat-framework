@@ -65,7 +65,7 @@ El GoatFramework incluye una CLI para facilitar la generación de componentes de
 -   **Crear una Vista**:
 
     ```plaintext
-    node goat view NombreDeLaVista
+    node goat view nombreDeLaVista
     ```
 
 -   **Crear un Controlador**:
@@ -139,3 +139,7 @@ Después de la compilación, los archivos JavaScript del directorio src se compi
 3. Realiza tus cambios y commitea (git commit -m 'Añadir nueva feature').
 4. Sube tus cambios (git push origin feature/nueva-feature).
 5. Abre un Pull Request.
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+## Autores y Agradecimientos
+-   **Autor Principal:**: Ezequiel Mendoza (Ezekingcito)
